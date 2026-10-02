@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "このコードを利用する場合は、以下の情報を引用してください。"
+title: "予想外のインフレは政府債務をどれだけ軽くしたか――債務比率の分解、部門別の損得、統合政府：再現ノートブック"
+authors:
+  - family-names: "秋森"
+    given-names: "弘"
+    alias: "Hiroshi Akimori"
+date-released: 2026-10-02
+repository-code: "https://github.com/akimori-hi/unexpected-inflation-japan-debt"
+license: MIT
+keywords:
+  - unexpected inflation
+  - government debt
+  - debt dynamics
+  - net nominal position
+  - Japan
