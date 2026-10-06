@@ -1,11 +1,11 @@
 # 予想外のインフレは政府債務をどれだけ軽くしたか――債務比率の分解、部門別の損得、統合政府：再現ノートブック
 
-秋森弘「予想外のインフレは政府債務をどれだけ軽くしたか――債務比率の分解、部門別の損得、統合政府――」（『北星論集』、2027年3月刊行）の
+秋森弘「予想外のインフレは政府債務をどれだけ軽くしたか――債務比率の分解、部門別の損得、統合政府――」（『北星論集』第66巻第2号、2027年3月刊行）の
 表・図・本文の数値を、公開統計から再現するJupyterノートブックと、そこで使うデータです。
 論文中の数値は、すべてこのリポジトリの実行済みノートブックから転記しています。
 
 Replication notebook for "How Much Did Unexpected Inflation Lighten Japan's Government Debt? Debt Decomposition, Sectoral Gains and Losses, and the Consolidated Government"
-(in Japanese, *Hokusei Review*, March 2027). All figures and tables in the paper are reproduced from the executed notebook in this repository.
+(in Japanese, *Hokusei Review*, vol. 66, no. 2, March 2027). All figures and tables in the paper are reproduced from the executed notebook in this repository.
 
 ## 内容
 
